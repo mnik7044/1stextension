@@ -1,4 +1,13 @@
-function saveLead()
+let myLeads = []
+const inputEl = document.getElementById("input-el") 
+const inputBtn = document.getElementById("input-btn")
+
+const ulEl =document.getElementById("ul-el")
+inputBtn.addEvenetListener("click", function(){
+    myLeads.push(inputEl.value)
+}) 
+
+for( let i =0; i<myLeads.length; i++)
 {
-    console.log("Button clicked")
+    ulEl.textContent += myLeads[i] + " "
 }
