@@ -1,2 +1,2 @@
 # 1stextension
-My first extension using javascript.
+This is my first extension project. I am making it using javascript.
