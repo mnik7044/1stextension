@@ -20,6 +20,7 @@ button{
     border: 1px solid #5f9341;
     font-weight: bold;
     margin-top: 4px;
+    cursor :pointer;
 
 }
 
@@ -39,7 +40,6 @@ a{
 }
 #delete-btn{
     background: white;
-    color:#5f9341
-    
+    color:#5f9341;
 }
 
