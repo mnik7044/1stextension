@@ -41,6 +41,3 @@ Contributions to URL Manager are welcome! To contribute, follow these steps:
 4. Push your changes to your forked repository
 5. Submit a pull request
 
-## License
-
-URL Manager is licensed under the [MIT License](https://opensource.org/licenses/MIT).
